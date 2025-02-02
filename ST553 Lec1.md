@@ -1,12 +1,4 @@
----
-layout: page
-title: Chapter 1 Martingales
-description: Martingale, Stopping Time, Doob’s Optional Stopping Theorem.
-importance: 1
-category: ST553 Probability and Mathematical Statistics II
-related_publications: false
-pseudocode: true
----
+# ST553 Lecture 1
 
 ## Probability Setup
 
