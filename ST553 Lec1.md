@@ -12,7 +12,7 @@ $X \in m\mathcal{F}, \mathbb{E}[|X|] < \infty, \mathcal{G} \subset \mathcal{F}$.
 2. For all $A \in G$,
 
    $$
-   \mathbb{E}[X \mathbb{1}_A] = \mathbb{E}[Y \mathbb{1}_A].
+   \mathbb{E}[X \mathbb{1}\_{A}] = \mathbb{E}[Y \mathbb{1}\_{A}].
    $$
 
 ### Properties:
